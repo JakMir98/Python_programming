@@ -1,0 +1,42 @@
+<?xml version="1.0" ?><collection shelf="People">
+<person>
+    <firstname>Jack</firstname>
+    <surname>Shepard</surname>
+    <title>Mr</title>
+    <nick>JackShp</nick>
+    <email>jack@vp.com</email>
+    <jobtitle>Programmer</jobtitle>
+</person>
+<person>
+    <firstname>Liam</firstname>
+    <surname>Smith</surname>
+    <title>Mr</title>
+    <nick>LiSmth</nick>
+    <email>lism@vp.pl</email>
+    <jobtitle>Manager</jobtitle>
+</person>
+<person>
+    <firstname>Olivia</firstname>
+    <surname>Williams</surname>
+    <title>Mrs</title>
+    <nick>O_Will</nick>
+    <email>ow@vp.com</email>
+    <jobtitle>UI designer</jobtitle>
+</person>
+<person>
+    <firstname>Emma</firstname>
+    <surname>Jones</surname>
+    <title>Mrs</title>
+    <nick>EMMJO</nick>
+    <email>emma_jones@vp.pl</email>
+    <jobtitle>UX designer</jobtitle>
+</person>
+<person>
+    <firstname>William</firstname>
+    <surname>Rodriguez</surname>
+    <title>Mr</title>
+    <nick>RodWill</nick>
+    <email>will.rod@us.com</email>
+    <jobtitle>Teacher</jobtitle>
+</person>
+</collection>
